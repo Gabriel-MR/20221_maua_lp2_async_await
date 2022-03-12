@@ -1,3 +1,6 @@
+// https://www.npmjs.com/package/dotenv
+// https://home.openweathermap.org/api_keys
+
 require('dotenv').config()
 const { default: axios } = require('axios')
 const exios = require('axios')
